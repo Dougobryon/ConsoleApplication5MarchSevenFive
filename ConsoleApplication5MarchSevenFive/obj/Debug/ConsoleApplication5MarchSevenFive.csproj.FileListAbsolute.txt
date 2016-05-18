@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenFive\ConsoleApplication5MarchSevenFive\bin\Debug\ConsoleApplication5MarchSevenFive.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenFive\ConsoleApplication5MarchSevenFive\bin\Debug\ConsoleApplication5MarchSevenFive.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenFive\ConsoleApplication5MarchSevenFive\bin\Debug\ConsoleApplication5MarchSevenFive.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenFive\ConsoleApplication5MarchSevenFive\obj\Debug\ConsoleApplication5MarchSevenFive.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenFive\ConsoleApplication5MarchSevenFive\obj\Debug\ConsoleApplication5MarchSevenFive.pdb
